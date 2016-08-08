@@ -1,0 +1,4 @@
+org\conan\websocket\DemoServlet.class
+org\conan\websocket\DemoServlet$MyMessageInbound.class
+org\conan\websocket\DemoServlet$1.class
+org\conan\websocket\MyWebSocket.class
